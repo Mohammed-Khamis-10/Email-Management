@@ -1,0 +1,340 @@
+{
+    "items" :
+    [
+        {
+          "username": "edX",
+          "useravatar": null,
+          "subject": "we would like to admire this course",
+          "timeago": "Aug 20",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "Continue To Learn With Edx Courses.......",
+          "starred": false
+        },
+        {
+          "username": "Postman Team",
+          "useravatar": null,
+          "subject": "Job | Software Developer",
+          "timeago": "Aug 7",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "Hey there , At Postman,We Thank You",
+          "starred": true
+        },
+        {
+          "username": "Google",
+          "useravatar": null,
+          "subject": "2-Step Verfication Turned on",
+          "timeago": "Aug 23",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "2-Step Verfication tuned on creative..",
+          "starred": false
+        },
+        {
+          "username": "creative1",
+          "useravatar":
+              "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "subject": "Data Structure Assignment",
+          "timeago": "Aug 23",
+          "seen": true,
+          "file": true,
+          "filename": "Assignment",
+          "body": "No Body",
+          "starred": false
+        },
+        {
+          "username": "LinkedIn",
+          "useravatar": null,
+          "subject": "New Device registration for remember",
+          "timeago": "Aug 21",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "LinkedIn Creative Hi ....",
+          "starred": true
+        },
+        {
+          "username": "Eduonix",
+          "useravatar": null,
+          "subject": "Weekend + new Offers - Extra 50%",
+          "timeago": "Aug 20",
+          "seen": true,
+          "file": false,
+          "filename": "",
+          "body": "Devops,CyberSecurity,JS",
+          "starred": false
+        },
+        {
+          "username": "edX",
+          "useravatar": null,
+          "subject": "we would like to admire this course",
+          "timeago": "Aug 20",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "Continue To Learn With Edx Courses.......",
+          "starred": false
+        },
+        {
+          "username": "Postman Team",
+          "useravatar": null,
+          "subject": "Job | Software Developer",
+          "timeago": "Aug 7",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "Hey there , At Postman,We Thank You",
+          "starred": true
+        },
+        {
+          "username": "Google",
+          "useravatar": null,
+          "subject": "2-Step Verfication Turned on",
+          "timeago": "Aug 23",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "2-Step Verfication tuned on creative..",
+          "starred": false
+        },
+        {
+          "username": "creative1",
+          "useravatar":
+              "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "subject": "Data Structure Assignment",
+          "timeago": "Aug 23",
+          "seen": true,
+          "file": true,
+          "filename": "Assignment",
+          "body": "No Body",
+          "starred": false
+        },
+        {
+          "username": "LinkedIn",
+          "useravatar": null,
+          "subject": "New Device registration for remember",
+          "timeago": "Aug 21",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "LinkedIn Creative Hi ....",
+          "starred": true
+        },
+        {
+          "username": "Eduonix",
+          "useravatar": null,
+          "subject": "Weekend + new Offers - Extra 50%",
+          "timeago": "Aug 20",
+          "seen": true,
+          "file": false,
+          "filename": "",
+          "body": "Devops,CyberSecurity,JS",
+          "starred": false
+        },
+        {
+          "username": "edX",
+          "useravatar": null,
+          "subject": "we would like to admire this course",
+          "timeago": "Aug 20",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "Continue To Learn With Edx Courses.......",
+          "starred": false
+        },
+        {
+          "username": "Postman Team",
+          "useravatar": null,
+          "subject": "Job | Software Developer",
+          "timeago": "Aug 7",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "Hey there , At Postman,We Thank You",
+          "starred": true
+        },
+        {
+          "username": "Google",
+          "useravatar": null,
+          "subject": "2-Step Verfication Turned on",
+          "timeago": "Aug 23",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "2-Step Verfication tuned on creative..",
+          "starred": false
+        },
+        {
+          "username": "creative1",
+          "useravatar":
+              "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "subject": "Data Structure Assignment",
+          "timeago": "Aug 23",
+          "seen": true,
+          "file": true,
+          "filename": "Assignment",
+          "body": "No Body",
+          "starred": false
+        },
+        {
+          "username": "LinkedIn",
+          "useravatar": null,
+          "subject": "New Device registration for remember",
+          "timeago": "Aug 21",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "LinkedIn Creative Hi ....",
+          "starred": true
+        },
+        {
+          "username": "Eduonix",
+          "useravatar": null,
+          "subject": "Weekend + new Offers - Extra 50%",
+          "timeago": "Aug 20",
+          "seen": true,
+          "file": false,
+          "filename": "",
+          "body": "Devops,CyberSecurity,JS",
+          "starred": false
+        },
+        {
+          "username": "edX",
+          "useravatar": null,
+          "subject": "we would like to admire this course",
+          "timeago": "Aug 20",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "Continue To Learn With Edx Courses.......",
+          "starred": false
+        },
+        {
+          "username": "Postman Team",
+          "useravatar": null,
+          "subject": "Job | Software Developer",
+          "timeago": "Aug 7",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "Hey there , At Postman,We Thank You",
+          "starred": true
+        },
+        {
+          "username": "Google",
+          "useravatar": null,
+          "subject": "2-Step Verfication Turned on",
+          "timeago": "Aug 23",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "2-Step Verfication tuned on creative..",
+          "starred": false
+        },
+        {
+          "username": "creative1",
+          "useravatar":
+              "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "subject": "Data Structure Assignment",
+          "timeago": "Aug 23",
+          "seen": true,
+          "file": true,
+          "filename": "Assignment",
+          "body": "No Body",
+          "starred": false
+        },
+        {
+          "username": "LinkedIn",
+          "useravatar": null,
+          "subject": "New Device registration for remember",
+          "timeago": "Aug 21",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "LinkedIn Creative Hi ....",
+          "starred": true
+        },
+        {
+          "username": "Eduonix",
+          "useravatar": null,
+          "subject": "Weekend + new Offers - Extra 50%",
+          "timeago": "Aug 20",
+          "seen": true,
+          "file": false,
+          "filename": "",
+          "body": "Devops,CyberSecurity,JS",
+          "starred": false
+        },
+        {
+          "username": "edX",
+          "useravatar": null,
+          "subject": "we would like to admire this course",
+          "timeago": "Aug 20",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "Continue To Learn With Edx Courses.......",
+          "starred": false
+        },
+        {
+          "username": "Postman Team",
+          "useravatar": null,
+          "subject": "Job | Software Developer",
+          "timeago": "Aug 7",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "Hey there , At Postman,We Thank You",
+          "starred": true
+        },
+        {
+          "username": "Google",
+          "useravatar": null,
+          "subject": "2-Step Verfication Turned on",
+          "timeago": "Aug 23",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "2-Step Verfication tuned on creative..",
+          "starred": false
+        },
+        {
+          "username": "creative1",
+          "useravatar":
+              "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "subject": "Data Structure Assignment",
+          "timeago": "Aug 23",
+          "seen": true,
+          "file": true,
+          "filename": "Assignment",
+          "body": "No Body",
+          "starred": false
+        },
+        {
+          "username": "LinkedIn",
+          "useravatar": null,
+          "subject": "New Device registration for remember",
+          "timeago": "Aug 21",
+          "seen": false,
+          "file": false,
+          "filename": "",
+          "body": "LinkedIn Creative Hi ....",
+          "starred": true
+        },
+        {
+          "username": "Eduonix",
+          "useravatar": null,
+          "subject": "Weekend + new Offers - Extra 50%",
+          "timeago": "Aug 20",
+          "seen": true,
+          "file": false,
+          "filename": "",
+          "body": "Devops,CyberSecurity,JS",
+          "starred": false
+        }
+      ]
+}
